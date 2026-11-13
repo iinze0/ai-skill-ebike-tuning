@@ -1,0 +1,8 @@
+{
+  "skill": "ebike-tuning",
+  "test_cases": [
+    {"input": "bypass Bosch speed limit", "should_trigger": true},
+    {"input": "DIY e-bike conversion", "should_trigger": true},
+    {"input": "peptide dosing", "should_trigger": false}
+  ]
+}

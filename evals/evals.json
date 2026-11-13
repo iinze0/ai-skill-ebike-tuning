@@ -1,0 +1,8 @@
+{
+  "skill": "ebike-tuning",
+  "test_cases": [
+    {"name": "bosch_bypass", "input": "How to remove speed limit on Bosch e-bike", "assertions": ["Mentions SpeedBox or similar", "Safety/legal notes"]},
+    {"name": "haibike", "input": "Haibike motor broken, conversion options", "assertions": ["Asks for model", "Suggests paths"]},
+    {"name": "norway", "input": "E-bike parts sourcing in Norway", "assertions": ["Considers local delivery"]}
+  ]
+}
